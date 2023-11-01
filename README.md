@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋, IT'S JOY!
+<p>
+Hello, My name is <b>JOY</b>. I am doing a master's program at Bishops University and my subject is computer science.<br>
+I am passionate about technology. My interest research area is in <b>ML, Python, and Cloud</b>. 
+  
+</p>
 
-<!--
-**iftekharchowdhuryJOY/iftekharchowdhuryJOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>Skills:</b>
+<ul>
+  <li>Python</li>
+  <li>APIs</li>
+  <li>Django</li>
+  <li>Flask</li>
+  <li>JS</li>
+  <li>Cloud: AWS</li>
+</ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on DocsPlain which is an AI-empowered medical virtual assistant. 
+- 🌱 I’m currently learning ML algorithms.
+- 👯 I’m looking to collaborate on open-source software, hackathon and various projects.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about Python, flask, Django, ML
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Troubleshooting is everything.
+
