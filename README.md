@@ -1,7 +1,7 @@
 ### Hi there 👋, IT'S JOY!
 <p>
 Hello, My name is <b>JOY</b>. I am doing a master's program at Bishops University and my subject is computer science.<br>
-I am passionate about technology. My interest research area is in <b>ML, Python, and Cloud</b>. 
+I have five years of work experience in the tech industry and am passionate about technology. My interest research area is in <b>ML, Python, and Cloud</b>. 
   
 </p>
 
