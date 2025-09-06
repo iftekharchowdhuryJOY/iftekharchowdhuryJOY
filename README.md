@@ -11,6 +11,7 @@ I have five years of work experience in the tech industry and am passionate abou
   <li>APIs</li>
   <li>Django</li>
   <li>Flask</li>
+  <li>FastAPI</li>
   <li>JS</li>
   <li>Cloud: AWS</li>
 </ul>
