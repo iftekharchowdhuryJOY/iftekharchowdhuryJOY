@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iftekharchowdhuryJOY/iftekharchowdhuryJOY/blob/main/banner.png" alt="JOY Banner" width="100%">
+  <img src="https://github.com/iftekharchowdhuryJOY/iftekharchowdhuryJOY/blob/main/github%20profile%20image.png" alt="JOY Banner" width="100%">
 </p>
 
 # 👋 Hey, I'm JOY  
