@@ -24,7 +24,6 @@ I’ve spent 5+ years building and debugging systems — from backend APIs to sc
 
 ### 🚀 Current Projects  
 
-- 🧬 **DocsPlain** – an AI-powered medical virtual assistant that supports clinicians with reasoning and documentation.  
 - 🤖 **DevOps Copilot** – a 24/7 smart infrastructure assistant for startups.  
 - 🧱 **FastAPI Auth System (Open Source)** – a free JWT authentication system.  
 
