@@ -1,28 +1,48 @@
-### Hi there 👋, IT'S JOY!
-<p>
-Hello, My name is <b>JOY</b>. I am doing a master's program at Bishops University and my subject is computer science.<br>
-I have five years of work experience in the tech industry and am passionate about technology. My interest research area is in <b>ML, Python, and Cloud</b>. 
-  
+<p align="center">
+  <img src="https://github.com/iftekharchowdhuryJOY/iftekharchowdhuryJOY/blob/main/banner.png" alt="JOY Banner" width="100%">
 </p>
 
-<b>Skills:</b>
-<ul>
-  <li>Python</li>
-  <li>APIs</li>
-  <li>Django</li>
-  <li>Flask</li>
-  <li>FastAPI</li>
-  <li>JS</li>
-  <li>Cloud: AWS</li>
-</ul>
+# 👋 Hey, I'm JOY  
 
+> 💡 Turning **AI, Code, and Cloud** into meaningful systems that scale and think.  
 
-- 🔭 I’m currently working on DocsPlain which is an AI-empowered medical virtual assistant. 
-- 🌱 I’m currently learning ML algorithms.
-- 👯 I’m looking to collaborate on open-source software, hackathon and various projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python, flask, Django, ML
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Troubleshooting is everything.
+---
 
+### ⚙️ About Me  
+I’m **JOY**, a master's student in Computer Science at **Bishop’s University**, blending **software engineering** with **AI research** and **cloud automation**.  
+I’ve spent 5+ years building and debugging systems — from backend APIs to scalable cloud infrastructures — always chasing one thing: **elegant solutions that work.**
+
+---
+
+### 🧠 Skills Snapshot  
+
+| 💻 Programming | ☁️ Cloud & DevOps | 🧩 Frameworks |
+|----------------|-------------------|---------------|
+| Python, JS, Bash | AWS, Docker, Terraform, GitHub Actions | FastAPI, Django, Flask |
+
+---
+
+### 🚀 Current Projects  
+
+- 🧬 **DocsPlain** – an AI-powered medical virtual assistant that supports clinicians with reasoning and documentation.  
+- 🤖 **DevOps Copilot** – a 24/7 smart infrastructure assistant for startups.  
+- 🧱 **FastAPI Auth System (Open Source)** – a free JWT authentication system.  
+
+---
+
+### 🌐 Connect With Me  
+📫 [LinkedIn](https://www.linkedin.com/in/iftekharul-islam/)  
+🌍 Portfolio (https://imjoy.me)  
+📧 Email: **iftekharjoy1@gmail.com**
+
+---
+
+### ⚡ Fun Fact  
+> “Troubleshooting isn’t a skill. It’s a survival instinct.”  
+
+---
+
+<p align="center">
+  <em>AI • Cloud • Python • Ideas</em><br>
+  <strong>Built with ❤️ by JOY</strong>
+</p>
