@@ -18,7 +18,7 @@ I’ve spent 5+ years building and debugging systems — from backend APIs to sc
 
 | 💻 Programming | ☁️ Cloud & DevOps | 🧩 Frameworks |
 |----------------|-------------------|---------------|
-| Python, JS, Bash | AWS, Docker, Terraform, GitHub Actions | FastAPI, Django, Flask |
+| Python, JS, Bash | AWS, Docker, Terraform, GitHub Actions, K8 | FastAPI, Django, Flask |
 
 ---
 
